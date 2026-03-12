@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# Build results
+bin/
+obj/
+*.exe
+
+# Visual Studio project files
+*.user
+*.suo
+*.sln.docstates
+*.userprefs
+
+# NuGet
+packages/
+*.nupkg
+
+# Build folders
+Debug/
+Release/
