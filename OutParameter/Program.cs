@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OutParameter
 {
@@ -40,6 +37,7 @@ namespace OutParameter
             Console.WriteLine(found ? "Found" : "Not Found");*/
 
             Console.ReadLine();
+
 
 
         }
